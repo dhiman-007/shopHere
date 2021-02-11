@@ -1,0 +1,8 @@
+node_modules
+server.cert
+server.key
+.env
+images/
+invoices/
+logs/
+
